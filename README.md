@@ -18,8 +18,11 @@
  + Nodejs v12.14.0
  + Npm 6.13.4
  + Mysql 8.0.18 
+ + Android studio 3.5.3
 * * *
 ### 3. 태블릿 어플
+ + <https://github.com/wnsgh1030/visitor_register_android>
+ * * *
 ### 4. 배포
  + Heroku로 배포
  + <https://visitor-register.herokuapp.com/>
