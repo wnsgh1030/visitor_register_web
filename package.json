@@ -13,8 +13,9 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "express-session": "^1.17.0",
-    "hbs": "~4.0.4",
+    "hbs": "^4.1.0",
     "http-errors": "~1.6.3",
+    "moment": "^2.24.0",
     "morgan": "~1.9.1",
     "mysql": "^2.17.1",
     "node-sass-middleware": "0.11.0",
@@ -25,7 +26,7 @@
     "qrcode": "^1.4.4"
   },
   "engines": {
-    "node":"12.14.0",
-    "npm":"6.13.4"
+    "node": "12.14.0",
+    "npm": "6.13.4"
   }
 }
