@@ -27,3 +27,9 @@
  + Heroku로 배포
  + <https://visitor-register.herokuapp.com/>
 * * *
+### 5. 라이브러리
+ + passport (로그인 회원가입)
+ + nodemailer (메일)
+ + qrcode (QR코드)
+ + moment (시간)
+ + sweetalert (알림창)
