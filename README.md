@@ -1,4 +1,4 @@
-# visitor_register
+# Visitor_Register
 * * *
 ## 방문자 관리 웹페이지
 * * *
