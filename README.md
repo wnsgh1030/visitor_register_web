@@ -20,15 +20,16 @@
  + Mysql 8.0.18 
  + Android studio 3.5.3
 * * *
- ![DB](./DB.png)
-### 3. 태블릿 어플
+### 3. DB
+ ![DB](./DB.PNG)
+### 4. 태블릿 어플
  + <https://github.com/wnsgh1030/visitor_register_android>
  * * *
-### 4. 배포
+### 5. 배포
  + Heroku로 배포
  + <https://visitor-register.herokuapp.com/>
 * * *
-### 5. 라이브러리
+### 6. 라이브러리
  + passport (로그인 회원가입)
  + nodemailer (메일)
  + qrcode (QR코드)
