@@ -20,6 +20,7 @@
  + Mysql 8.0.18 
  + Android studio 3.5.3
 * * *
+ ![DB](./DB.png)
 ### 3. 태블릿 어플
  + <https://github.com/wnsgh1030/visitor_register_android>
  * * *
