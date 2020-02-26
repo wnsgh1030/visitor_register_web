@@ -36,3 +36,6 @@
  + qrcode (QR코드)
  + moment (시간)
  + sweetalert (알림창)
+ * * *
+### 7. 예시
+ ![DB](./example_admin.PNG)
